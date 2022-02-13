@@ -1,5 +1,5 @@
 - <h3>👋Hi, I’m @Feshior</h3>
-- 👀 I’m interested in C# and assembler programming 
+- 👀 I’m interested in C# and C++
 - 🌱 I’m currently learning C#
 -💞️ I’m looking to collaborate on ...
 -📫 How to reach me ..
